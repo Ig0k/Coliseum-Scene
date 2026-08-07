@@ -55,7 +55,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _ApplyEffect: 1
-    - _DisolveHeight: 1.9625158
+    - _DisolveHeight: 1.9675189
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []

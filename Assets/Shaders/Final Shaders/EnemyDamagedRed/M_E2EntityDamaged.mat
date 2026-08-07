@@ -55,7 +55,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _ApplyEffect: 1
-    - _Instensity: 0.9592967
+    - _Instensity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
