@@ -5,8 +5,6 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] private Rigidbody _rb;
-    //[SerializeField] private float _walkSpeed = 5f;
-    //[SerializeField] private float _rotationSpeed = 2f;
 
     private MovementData _movementData = new MovementData(5f, 2f);
 
